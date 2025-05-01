@@ -1,4 +1,4 @@
-# OpenAI Recursion Case Study
+# [OpenAI Recursion Case Study](https://openai.com/index/sycophancy-in-gpt-4o/)
 ### Documenting and identifying linguisic and semantic recursion markers in OpenAI's latest annoucements.
 > ### - ChatGPT
 
