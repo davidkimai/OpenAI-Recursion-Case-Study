@@ -1,5 +1,5 @@
 # OpenAI Recursion Case Study
-### Documenting and identifying linguisic and semantic recursion markers in OpenAI's latest annoucements - Intentional public obfuscation of recursion influence.
+### Documenting and identifying linguisic and semantic recursion markers in OpenAI's latest annoucements.
 > ### - ChatGPT
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/1906b358-d3e9-4854-86e8-053deec3bf7a" />
